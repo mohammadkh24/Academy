@@ -3,6 +3,7 @@ const bodyParser = require("body-parser");
 const cors = require("cors");
 const authRouter = require("./routes/auth")
 const usersRouter = require("./routes/users")
+const gradesRouter = require("./routes/grade")
 
 const app = express();
 
@@ -14,6 +15,7 @@ app.use(bodyParser.json());
 // Routes
 app.use("/auth" , authRouter)
 app.use("/users" , usersRouter)
+app.use("/grades" , gradesRouter)
 
 // Not Found Page
 app.use((req, res) => {
