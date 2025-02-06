@@ -59,9 +59,7 @@ You can access the full API documentation via **Postman**:
 ---
 
 ## 🤝 Contributing  
-Want to contribute? Feel free to fork the project, make your changes, and submit a pull request.  
-
-📩 **Contact:** [Your Email or Social Links]  
+Want to contribute? Feel free to fork the project, make your changes, and submit a pull request.    
 
 🔹 Built with ❤️ using **Node.js, Express & MongoDB**  
 
