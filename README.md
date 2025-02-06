@@ -62,7 +62,3 @@ You can access the full API documentation via **Postman**:
 Want to contribute? Feel free to fork the project, make your changes, and submit a pull request.    
 
 🔹 Built with ❤️ using **Node.js, Express & MongoDB**  
-
----
-
-این نسخه خواناتر، جذاب‌تر و حرفه‌ای‌تر است. 🚀 اگر نیاز به تغییر یا اضافه کردن بخش خاصی داری، بگو! 😃
