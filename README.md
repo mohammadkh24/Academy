@@ -1,7 +1,3 @@
-البته! در اینجا یک نسخه تمیز، مرتب و حرفه‌ای از README شما آورده شده است:  
-
----
-
 # 🎓 Academy System (Backend)
 
 Welcome to the **Academy System** backend! This project is built using **Node.js, Express.js, and MongoDB** to manage users, courses, and grades in an educational system. It provides authentication, user management, and data handling through a RESTful API.  
